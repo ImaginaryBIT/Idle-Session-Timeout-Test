@@ -1,5 +1,5 @@
-# Idle-Session-Timeout-Test
-A handy tool to test idle session timeout
+# Idle Session Timeout Test (WSTG-SESS-007)
+A handy tool to test idle session timeout. 
 
 ### Description:
 This is a Idle Session Timeout test script
